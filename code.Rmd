@@ -1,6 +1,6 @@
 ---
-title: "Some Title"
-author: "Author"
+title: "high school sports participation over time"
+author: "kaden holdbrook"
 date: "`r Sys.Date()`"
 output: html_document
 ---
